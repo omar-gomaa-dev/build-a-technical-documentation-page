@@ -1,0 +1,76 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Tribute Page</title>
+  
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+  <main id="main-doc">
+   <section class="main-section" id="JavaScript_and_Java">
+  <header>JavaScript and Java</header>
+  <p></P>
+  <p></P>
+  <code></code>
+<li></li>
+
+</section>
+   <section class="main-section" id="JavaScript_and_Java">
+  <header>JavaScript and Java</header>
+  <p></P>
+  <p></P>
+  <code></code>
+<li></li>
+
+</section>
+   <section class="main-section" id="JavaScript_and_Java">
+  <header>JavaScript and Java</header>
+  <p></P>
+  <p></P>
+  <code></code>
+<li></li>
+
+</section>
+   <section class="main-section" id="JavaScript_and_Java">
+  <header>JavaScript and Java</header>
+  <p></P>
+  <p></P>
+  <code></code>
+<li></li>
+
+</section>
+   <section class="main-section" id="JavaScript_and_Java">
+  <header>JavaScript and Java</header>
+  <p></P>
+  <p></P>
+  <code></code>
+<li></li>
+
+</section>
+   <nav id="navbar">
+     <header>Hello world</header>
+     <a class="nav-link" href="#JavaScript_and_Java">JavaScript and Java</a>
+     <a class="nav-link" href="#JavaScript_and_Java">JavaScript and Java</a>
+     <a class="nav-link" href="#JavaScript_and_Java">JavaScript and Java</a>
+     <a class="nav-link" href="#JavaScript_and_Java">JavaScript and Java</a>
+     <a class="nav-link" href="#JavaScript_and_Java">JavaScript and Java</a>
+   </nav>
+    </main>
+  </body>
+
+** end of index.html **
+
+** start of styles.css **
+
+@media (max-width: 800px) {
+  #navbar {
+    position: relative;
+    width: 100%;
+  }
+}
+
+** end of styles.css **
+
